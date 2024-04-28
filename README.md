@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Cihan</h1>
 <h3 align="center">A passionate A passionate software developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/EnesCihan](https://github.com/EnesCihan)
-
 - 📝 I regularly write articles on [Coming Soon](Coming Soon)
 
 - 📫 How to reach me **enesc1h4n@gmail.com**
