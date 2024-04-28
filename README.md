@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/enes-cihan-b138441b5/](https://www.linkedin.com/in/enes-cihan-b138441b5/)
 
-- - 📝 I regularly write articles on (Coming Soon)
+- 📝 I regularly write articles on (Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
