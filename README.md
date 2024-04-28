@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enes Cihan</h1>
 <h3 align="center">A passionate A passionate software developer</h3>
 
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
-
 - 📫 How to reach me **enesc1h4n@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/enes-cihan-b138441b5/](https://www.linkedin.com/in/enes-cihan-b138441b5/)
+
+- - 📝 I regularly write articles on (Coming Soon)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
